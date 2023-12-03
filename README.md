@@ -84,16 +84,20 @@ These are regular members of "Fireflies". These could be a previous farmer, acco
 
 Discreet Homepage
 This will be a Discreet homepage to be inconspicuous. Will just be a generic image potentially with just burgers on the corner (?) for Login
+
 ![Homepage](/docs/Homepage.jpg "Homepage wireframe")
 
 
 Login page will be a pop-up from Homepage:
+
 ![Login](/docs/Login.jpg "Login wireframe")
 
 Once Logged in, All users will be able to see stash list:
+
 ![Stash List](/docs/Stash%20View.jpg "Stash List View")
 
 Then only Admins or Intelligence Agents will have the user list view which will have the CRUD for user management:
+
 ![User List View](/docs/Admin%20base.jpg "User List View")
 
 ### Trello board screenshots
