@@ -94,7 +94,7 @@ Once Logged in, All users will be able to see stash list:
 ![Stash List](/docs/Stash%20View.jpg "Stash List View")
 
 Then only Admins or Intelligence Agents will have the user list view which will have the CRUD for user management:
-![User List View](/docs/Admin%20base.jpg"User List View")
+![User List View](/docs/Admin%20base.jpg "User List View")
 
 ### Trello board screenshots
 
