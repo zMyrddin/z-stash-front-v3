@@ -42,7 +42,10 @@ The target audience are specifically the people of "zGroup" who want to store va
 
 ### Application Architecture diagram
 
-https://lucid.app/lucidchart/c232eb61-def7-4dde-be80-6c7ee5feb2f7/edit?viewport_loc=-3350%2C-1618%2C3328%2C1586%2C0_0&invitationId=inv_00a6a637-97a4-4bd5-8a90-5071d30045ba
+Simple Architecture Diagram - With link to Google Maps API for potential stretch goal
+
+![Simple Architecture Diagram](https://drive.google.com/file/d/1Kd5mZjfnpFqpVbLky8LLpUT4wqwkYWDl/view?usp=sharing)
+
 
 
 ### Users
@@ -76,8 +79,6 @@ These are regular members of "zGroup". These could be a previous farmer, account
 
 
 
-
-R2	Dataflow Diagram	CMP1043-4.2
 
 
 R5	Wireframes for multiple standard screen sizes, created using industry standard software	CMP1043-4.1, CMP1043-5.3
