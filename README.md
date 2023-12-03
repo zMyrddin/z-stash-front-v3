@@ -44,7 +44,7 @@ The target audience are specifically the people of "zGroup" who want to store va
 
 Simple Architecture Diagram - With link to Google Maps API for potential stretch goal
 
-![Simple Architecture Diagram](https://drive.google.com/file/d/1Kd5mZjfnpFqpVbLky8LLpUT4wqwkYWDl/view?usp=sharing)
+![Simple Architecture Diagram](https://drive.google.com/file/d/1Kd5mZjfnpFqpVbLky8LLpUT4wqwkYWDl/view?usp=drive_link "AAD")
 
 
 
