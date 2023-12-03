@@ -37,18 +37,18 @@ The target audience are specifically the people of "Fireflies" who want to store
 - cors
 
 
-### Dataflow Diagram
+### Application Architecture diagram
 
 ![Dataflow Diagram](/docs/AAD%20-%20Z%20Stash%20Inventory%20System.jpeg "AAD")
 
 
+### Dataflow Diagram
 
-### Application Architecture diagram
+Simple Dataflow Diagram - With link to Google Maps API for potential stretch goal.
 
-Simple Architecture Diagram - With link to Google Maps API for potential stretch goal
+Legend is in the right side to eliminate white space.
 
 ![Simple Architecture Diagram](/docs/Z-Stash%20DFD.jpg "AAD")
-
 
 
 ### Users
