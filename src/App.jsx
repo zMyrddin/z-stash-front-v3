@@ -1,3 +1,4 @@
+import { login } from './functions/login';
 import './App.css';
 import { useEffect, useState } from 'react';
 
@@ -31,7 +32,10 @@ function App() {
         onChange={(event) => setPassword(event.target.value)} 
       />
       
-
+      <button onClick={() => {login(username, password)}}>
+        Log In
+      </button>
+    
 
     </div>
   );
